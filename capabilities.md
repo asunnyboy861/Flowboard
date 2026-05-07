@@ -41,5 +41,5 @@ Based on operation guide analysis:
 
 ## Verification
 
-- Build succeeded after configuration: ⏳ Pending (will verify after code generation)
-- All entitlements correct: ⏳ Pending
+- Build succeeded after configuration: ✅ Verified (iPhone + iPad)
+- All entitlements correct: ✅ Verified
