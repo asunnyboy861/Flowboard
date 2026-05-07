@@ -35,9 +35,9 @@ struct SettingsView: View {
                 }
 
                 Section("Legal") {
-                    Link("Privacy Policy", destination: URL(string: "https://zzoutuo.github.io/Flowboard/privacy")!)
-                    Link("Terms of Use", destination: URL(string: "https://zzoutuo.github.io/Flowboard/terms")!)
-                    Link("Support", destination: URL(string: "https://zzoutuo.github.io/Flowboard/support")!)
+                    Link("Privacy Policy", destination: URL(string: "https://asunnyboy861.github.io/Flowboard/privacy.html")!)
+                    Link("Terms of Use", destination: URL(string: "https://asunnyboy861.github.io/Flowboard/terms.html")!)
+                    Link("Support", destination: URL(string: "https://asunnyboy861.github.io/Flowboard/support.html")!)
                 }
 
                 Section("About") {
